@@ -32,4 +32,23 @@ public class ArrayMethods {
         }
         return found;
     }
+
+    /**
+     * Method to sort an array (currently unimplemented)
+     * @param numbers
+     * @return a sorted array
+     */
+    int[] sortArray(int[] numbers) {
+        //implement sort
+        return new int[] {};
+    }
+
+    /**
+     * Method to print element at a specific index of an array
+     * @param array
+     * @param index
+     */
+    void printArray(int[] array, int index) {
+        System.out.println(array[index]);
+    }
 }
