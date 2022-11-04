@@ -11,7 +11,7 @@ This course is well-organized with high-quality content.
 - Lesson 1: [JUnit](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8/blob/master/lesson1.md)
 - Lesson 2: [Writing a Unit Test](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8/blob/master/lesson2.md)
 - Lesson 3: [Assert Methods](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8/blob/master/lesson3.md)
-- Lesson : []()
+- Lesson 4: [JUnit Test Lifecycle Annotations](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8/blob/master/lesson4.md)
 - Lesson : []()
 - Lesson : []()
 - Lesson : []()
